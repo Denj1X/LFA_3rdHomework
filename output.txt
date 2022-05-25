@@ -1,0 +1,4 @@
+Este bun cuvantul: aabaab
+Este bun cuvantul: aabbaa
+Nu este bun cuvantul: abbbaa
+LAMBDA: 2
